@@ -12,7 +12,7 @@ val kotlinxSerialization = "1.3.2"
 
 plugins {
     kotlin("js") version "1.6.21"
-    kotlin("plugin.serialization") version "1.6.21"
+    kotlin("plugin.serialization") version "1.7.10"
 }
 
 group = "site.vie10"
